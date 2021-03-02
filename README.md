@@ -31,6 +31,7 @@ The server starts on port 3333. Access http://localhost:3333
 ## Resources
 
 - [Typescript](https://www.typescriptlang.org/)
+- [Node.JS](https://nodejs.org/en/)
 - [TypeORM](https://typeorm.io/#/)
 - [Sqlite](https://www.sqlite.org/index.html)
 - [Jest](https://jestjs.io/)
