@@ -20,11 +20,11 @@ Clone this repository:
 
 Install the dependencies:
 
-`npm install`
+`npm install` or `yarn`
 
 Execute:
 
-`npm run dev`
+`npm run dev` or `yarn dev`
 
 The server starts on port 3333. Access http://localhost:3333
 
